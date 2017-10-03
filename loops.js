@@ -8,4 +8,8 @@ function forLoop(array) {
   }
 }
 
-function 
+function whileLoop(5) {
+  while (true) {
+    console.log()
+  }
+}
